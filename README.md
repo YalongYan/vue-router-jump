@@ -1,5 +1,5 @@
 # vue-router-page-jump
-
+![avatar](https://img2018.cnblogs.com/blog/872412/201810/872412-20181010165748835-1294147441.gif)
 > A Vue.js project
 
 ## Build Setup
