@@ -1,4 +1,4 @@
-# vue-slicksort-practice
+# vue-router-page-jump
 
 > A Vue.js project
 
